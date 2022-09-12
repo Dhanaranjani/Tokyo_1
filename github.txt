@@ -1,0 +1,2 @@
+It lets you and others work together on projects from anywhere.
+Github is a website for developers and  programmers to collaboratively work on the code. 
