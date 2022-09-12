@@ -1,2 +1,2 @@
-The details of the customer/user is in the file.
+Details of the customer/user is in the file.
 User : Ranjanii
